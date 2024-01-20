@@ -16,4 +16,4 @@ I make game add-ons to increase your game quality, you can check my projects by 
 
 <h3>GitHub General</h3>
 
-![](https://komarev.com/ghpvc/?username=adonias-1337&color=blueviolet)
+![](https://komarev.com/ghpvc/?190000&color=blueviolet)
