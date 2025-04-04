@@ -8,4 +8,4 @@ AKLINIZA GELEBİLECEK HER TÜRDEN OYUNA ÜÇÜNCÜ PARTİ YAZILIMLAR HİLELER GE
 
 <h3>GitHub General</h3>
 
-![](https://komarev.com/ghpvc/?username=kheiron-1337&color=blueviolet)
+![](https://komarev.com/ghpvc/?username=adonias-1337&color=blueviolet)
