@@ -6,6 +6,7 @@
 
 <h3>Last Project</h3>
 <a href="https://github.com/kheiron-1337/AuthMe/" target"blank_">AuthMePloit Remastered</a>
+<a href="https://github.com/kheiron-1337/EzExploit-article/" target"blank_">EzExploit [ARTICLE]</a>
 
 <h3>Social Accounts</h3>
 <a href="https://github.com/adonias-1337" target"blank_"><img src="https://img.shields.io/badge/GitHub%20-191717.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
